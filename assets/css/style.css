@@ -9,7 +9,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: url('../images/whiskey-background.jpg') no-repeat center center fixed;
+    background: url('assets/images/whiskey-background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -18,8 +18,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
-    position: relative;
+     position: relative;
 }
 
 .opaque-overlay {
